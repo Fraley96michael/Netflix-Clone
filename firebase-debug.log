@@ -1,0 +1,21 @@
+[debug] [2021-02-18T23:13:13.195Z] ----------------------------------------------------------------------
+[debug] [2021-02-18T23:13:13.197Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Frale\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-18T23:13:13.198Z] CLI Version:   9.4.0
+[debug] [2021-02-18T23:13:13.198Z] Platform:      win32
+[debug] [2021-02-18T23:13:13.198Z] Node Version:  v14.15.4
+[debug] [2021-02-18T23:13:13.199Z] Time:          Thu Feb 18 2021 18:13:13 GMT-0500 (Eastern Standard Time)
+[debug] [2021-02-18T23:13:13.200Z] ----------------------------------------------------------------------
+[debug] [2021-02-18T23:13:13.200Z] 
+[debug] [2021-02-18T23:13:13.207Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-18T23:13:13.207Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Frale\NetflixMockUp
+
